@@ -1,7 +1,7 @@
 Data Entry Form Application
 
 Overview-
-This project is a Graphical User Interface (GUI)–based Data Entry Form developed using Python and wxPython.
+This project is a Graphical User Interface (GUI)â€“based Data Entry Form developed using Python and wxPython.
 The application enables users to input personal and academic details through a structured interface with basic input validation.
 
 Technologies Used-
